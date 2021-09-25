@@ -1,4 +1,4 @@
-##  <img align="center" alt="kyo-snk" height="30" width="40" src="https://github.com/Kyun0r/myicons/blob/main/pngwing.com%20(1).png"> WELCOME
+##  <img align="center" alt="kyo-snk" height="30" width="40" src="https://community.carbide3d.com/uploads/default/original/3X/2/6/2640ea01be3c21d4588c150942ea158a0d466700.svg"> WELCOME
 <div align="center">
   <a href="https://github.com/Kyun0r">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kyun0r&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
